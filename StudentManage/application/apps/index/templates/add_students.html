@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form action="" method="post">
+    {% for message in get_flashed_messages() %}
+	<span>{{message}}</span>
+    {% endfor %}
+    <table width="600px" align="center" border="1">
+        <tr>
+            <td>姓名:</td>
+            <td><input type="text" name="username"></td>
+        </tr>
+        <tr>
+            <td>年齡:</td>
+            <td><input type="number" name="age"></td>
+        </tr>
+        <tr>
+            <td>性別:</td>
+            <td>
+                <select name="sex">
+                    <option value="1">男</option>
+                    <option value="0">女</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>班級:</td>
+            <td><input type="text" name="class_number"></td>
+        </tr>
+        <tr>
+            <td>個性簽名:</td>
+            <td><textarea name="description"></textarea></td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>
+                <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                <input type="submit" value="註冊">
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

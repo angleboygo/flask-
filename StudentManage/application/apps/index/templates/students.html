@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <!--注意url_for书写格式 url_for('蓝图别名.视图函数名')-->
+    <a href="{{ url_for('index.add_student') }}">新增學員</a>
+    <table border="1" align="center" width="1000px">
+        <tr>
+            <th>ID</th>
+            <th>姓名</th>
+            <th>年齡</th>
+            <th>性別</th>
+            <th>班級</th>
+            <th>個性簽名</th>
+        </tr>
+        {% for student in students %}
+        <tr>
+            <td>{{ student.id }}</td>
+            <td>{{ student.name }}</td>
+            <td>{{ student.age }}</td>
+            <td>{{ student.sex }}</td>
+            <td>{{ student.class_number }}</td>
+            <td>{{ student.description }}</td>
+        </tr>
+        {% endfor %}
+
+    </table>
+</body>
+</html>

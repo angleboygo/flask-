@@ -1,0 +1,339 @@
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:51:35] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:51:35] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:51:37] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\manage.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:54:58] "GET / HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:54:58] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:54:58] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:54:58] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:54:58] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:54:59] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:54:59] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:55:52] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:55:52] "GET /static/css/reset.css HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:55:52] "GET /static/css/main2.css HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:55:52] "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:55:52] "GET /static/js/jquery-ui.min.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:55:52] "GET /static/js/slide.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:55:52] "GET /static/images/logo.png HTTP/1.1" 404 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\apps\\index\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:57:07] "GET / HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:57:08] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:57:08] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:57:08] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:57:08] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:57:08] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:57:08] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\apps\\index\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:58:31] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:58:33] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\apps\\index\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:59:05] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:59:05] "GET /static/css/reset.css HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:59:05] "GET /static/css/main2.css HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:59:05] "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:59:05] "GET /static/js/jquery-ui.min.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:59:05] "GET /static/js/slide.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 16:59:05] "GET /static/images/logo.png HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\apps\\index\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\apps\\index\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 17:02:58] "GET /test HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 17:02:58] "GET /ying.jpg HTTP/1.1" 404 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 17:03:31] "GET /test HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 17:03:32] "GET /ying.jpg HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 17:03:50] "GET /test HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 17:03:50] "GET /ying.jpg HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 17:04:24] "GET /test HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 17:04:24] "GET /static/ying.jpg HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 17:04:38] "GET /test HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 17:04:39] "GET /test HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 17:04:39] "GET /test HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 17:04:39] "GET /test HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 17:04:39] "GET /test HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 17:08:13] "GET /test HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 17:08:13] "GET /static/huaduo.jpg HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 17:09:00] "GET /test HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 17:09:00] "GET /static/yinger.jpg HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\settings\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR __init__.py:97 Error: Directory migrations already exists
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\manage.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR __init__.py:97 Error: Directory migrations already exists
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\apps\\index\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 17:55:24] "GET /students HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\apps\\index\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\settings\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\apps\\index\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\apps\\index\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\apps\\index\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\apps\\index\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:38:11] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:38:11] "GET /static/css/reset.css HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:38:11] "GET /static/css/main2.css HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:38:11] "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:38:11] "GET /static/js/jquery-ui.min.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:38:11] "GET /static/js/slide.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:38:12] "GET /static/images/logo.png HTTP/1.1" 404 -
+INFO log.py:110 SHOW VARIABLES LIKE 'sql_mode'
+INFO log.py:110 ()
+INFO log.py:110 SHOW VARIABLES LIKE 'lower_case_table_names'
+INFO log.py:110 ()
+INFO log.py:110 SELECT DATABASE()
+INFO log.py:110 ()
+INFO log.py:110 show collation where `Charset` = 'utf8mb4' and `Collation` = 'utf8mb4_bin'
+INFO log.py:110 ()
+INFO log.py:110 SELECT CAST('test plain returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 ()
+INFO log.py:110 SELECT CAST('test unicode returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 ()
+INFO log.py:110 SELECT CAST('test collated returns' AS CHAR CHARACTER SET utf8mb4) COLLATE utf8mb4_bin AS anon_1
+INFO log.py:110 ()
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 SELECT student.id AS student_id, student.name AS student_name, student.sex AS student_sex, student.class_number AS student_class_number, student.age AS student_age, student.description AS student_description 
+FROM student
+INFO log.py:110 ()
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:38:20] "GET /students HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:38:20] "GET /students?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:38:20] "GET /students?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:38:20] "GET /students?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:38:20] "GET /students?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:38:21] "GET /students?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:38:21] "GET /students?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO log.py:110 ROLLBACK
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 SELECT student.id AS student_id, student.name AS student_name, student.sex AS student_sex, student.class_number AS student_class_number, student.age AS student_age, student.description AS student_description 
+FROM student
+INFO log.py:110 ()
+INFO log.py:110 ROLLBACK
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:40:29] "GET /students HTTP/1.1" 200 -
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 SELECT student.id AS student_id, student.name AS student_name, student.sex AS student_sex, student.class_number AS student_class_number, student.age AS student_age, student.description AS student_description 
+FROM student
+INFO log.py:110 ()
+INFO log.py:110 ROLLBACK
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:40:32] "GET /students HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\apps\\index\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\apps\\index\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\apps\\index\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO log.py:110 SHOW VARIABLES LIKE 'sql_mode'
+INFO log.py:110 ()
+INFO log.py:110 SHOW VARIABLES LIKE 'lower_case_table_names'
+INFO log.py:110 ()
+INFO log.py:110 SELECT DATABASE()
+INFO log.py:110 ()
+INFO log.py:110 show collation where `Charset` = 'utf8mb4' and `Collation` = 'utf8mb4_bin'
+INFO log.py:110 ()
+INFO log.py:110 SELECT CAST('test plain returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 ()
+INFO log.py:110 SELECT CAST('test unicode returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 ()
+INFO log.py:110 SELECT CAST('test collated returns' AS CHAR CHARACTER SET utf8mb4) COLLATE utf8mb4_bin AS anon_1
+INFO log.py:110 ()
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 SELECT student.id AS student_id, student.name AS student_name, student.sex AS student_sex, student.class_number AS student_class_number, student.age AS student_age, student.description AS student_description 
+FROM student
+INFO log.py:110 ()
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:44:50] "GET /students HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:44:50] "GET /students?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:44:50] "GET /students?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:44:50] "GET /students?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:44:50] "GET /students?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:44:50] "GET /students?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:44:51] "GET /students?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO log.py:110 ROLLBACK
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 SELECT student.id AS student_id, student.name AS student_name, student.sex AS student_sex, student.class_number AS student_class_number, student.age AS student_age, student.description AS student_description 
+FROM student
+INFO log.py:110 ()
+INFO log.py:110 ROLLBACK
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:45:12] "GET /students HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:45:13] "GET /add HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:45:14] "GET /add?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:45:14] "GET /add?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:45:14] "GET /add?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:45:14] "GET /add?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:45:14] "GET /add?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:45:14] "GET /add?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\apps\\index\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:45:39] "GET /add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:45:46] "POST /add HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:45:46] "GET /add?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:45:46] "GET /add?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:45:46] "GET /add?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:45:46] "GET /add?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:45:46] "GET /add?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:45:46] "GET /add?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO log.py:110 SHOW VARIABLES LIKE 'sql_mode'
+INFO log.py:110 ()
+INFO log.py:110 SHOW VARIABLES LIKE 'lower_case_table_names'
+INFO log.py:110 ()
+INFO log.py:110 SELECT DATABASE()
+INFO log.py:110 ()
+INFO log.py:110 show collation where `Charset` = 'utf8mb4' and `Collation` = 'utf8mb4_bin'
+INFO log.py:110 ()
+INFO log.py:110 SELECT CAST('test plain returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 ()
+INFO log.py:110 SELECT CAST('test unicode returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 ()
+INFO log.py:110 SELECT CAST('test collated returns' AS CHAR CHARACTER SET utf8mb4) COLLATE utf8mb4_bin AS anon_1
+INFO log.py:110 ()
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 INSERT INTO student (name, sex, class_number, age, description) VALUES (%s, %s, %s, %s, %s)
+INFO log.py:110 ('33', 1, '', 3333, '')
+INFO log.py:110 COMMIT
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:45:55] "POST /add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:45:59] "GET /add HTTP/1.1" 200 -
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 INSERT INTO student (name, sex, class_number, age, description) VALUES (%s, %s, %s, %s, %s)
+INFO log.py:110 ('', 1, '', 333, '')
+INFO log.py:110 COMMIT
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:46:06] "POST /add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:46:09] "GET /add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:46:11] "POST /add HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:46:11] "GET /add?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:46:11] "GET /add?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:46:11] "GET /add?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:46:11] "GET /add?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:46:11] "GET /add?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:46:11] "GET /add?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\StudentManage\\application\\apps\\index\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:47:11] "GET /add HTTP/1.1" 200 -
+INFO log.py:110 SHOW VARIABLES LIKE 'sql_mode'
+INFO log.py:110 ()
+INFO log.py:110 SHOW VARIABLES LIKE 'lower_case_table_names'
+INFO log.py:110 ()
+INFO log.py:110 SELECT DATABASE()
+INFO log.py:110 ()
+INFO log.py:110 show collation where `Charset` = 'utf8mb4' and `Collation` = 'utf8mb4_bin'
+INFO log.py:110 ()
+INFO log.py:110 SELECT CAST('test plain returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 ()
+INFO log.py:110 SELECT CAST('test unicode returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 ()
+INFO log.py:110 SELECT CAST('test collated returns' AS CHAR CHARACTER SET utf8mb4) COLLATE utf8mb4_bin AS anon_1
+INFO log.py:110 ()
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 INSERT INTO student (name, sex, class_number, age, description) VALUES (%s, %s, %s, %s, %s)
+INFO log.py:110 ('', 1, '', 0, '')
+INFO log.py:110 COMMIT
+INFO _internal.py:122 127.0.0.1 - - [10/Apr/2019 19:47:15] "POST /add HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 126-945-982
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
